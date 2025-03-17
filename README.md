@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 17/03/25
+## Register Number:212223220032
+## Name: HARSETHA J
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -15,12 +15,36 @@ Ministry of Railway
 
 ## Proposed Solution / Architecture Diagram
 
+![image](https://github.com/user-attachments/assets/b484c1a4-71d4-44e1-8e9a-cc07f90289ff)
 
 ## Use Cases
 
+![use case](https://github.com/user-attachments/assets/4b62232e-0650-4eb1-8a97-bb1db464e9c2)
 
 ## Technology Stack
 
+Vuforia: For AR capabilities.
+
+Unity: For developing the 3D and AR navigation system.
+
+Google Maps API: For mapping and real-time location services.
+
+Firebase: For real-time database and authentication.
+
+React Native: For cross-platform mobile app development.
+
+AWS: For cloud services and hosting.
 
 ## Dependencies
 
+Mapping Service (10 days) – Integrate with a reliable mapping service like Google Maps or OpenStreetMap for accurate navigation.
+
+Data Collection (30-45 days) – Gather and verify accurate station layouts, facility locations, and real-time updates for better navigation.
+
+Budget Allocation (7 days) – Secure funding (₹50,000 - ₹1,00,000) for development, testing, and long-term maintenance of the system.
+
+User Feedback Integration (Ongoing) – Continuously collect and implement user feedback to enhance the app’s features and usability.
+
+Regulatory Approvals (15-30 days) – Obtain necessary permissions from railway authorities to deploy the system in stations.
+
+Technical Support Setup (Ongoing) – Ensure continuous technical support for bug fixes, software updates, and troubleshooting.
